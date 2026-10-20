@@ -48,8 +48,8 @@ That's the whole list. I'd rather know ten things well than list fifty.
 
 ## Things I've built
 
-- **[Odium Launcher](https://github.com/YOUR_USERNAME/odium-launcher)**: a black-and-red Android home screen. Native `HOME` activity, WebView UI, pixel cat, weather and focus widgets.
-- **[Odium Weather](https://github.com/YOUR_USERNAME/OdiumWeather)**: an Electron weather app ported to Android. React UI in a WebView, Open-Meteo forecasts and a live RainViewer radar.
+- **[Odium Launcher](https://github.com/nyxikittydev/odium-launcher)**: a black-and-red Android home screen. Native `HOME` activity, WebView UI, pixel cat, weather and focus widgets.
+- **[Odium Weather](https://github.com/nyxikittydev/OdiumWeather)**: an Electron weather app ported to Android. React UI in a WebView, Open-Meteo forecasts and a live RainViewer radar.
 - **FloofVR**: a social VR game in Godot 4 with a Bun and TypeScript multiplayer server.
 
 ## Find me
@@ -63,8 +63,8 @@ That's the whole list. I'd rather know ten things well than list fifty.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=08070b&title_color=ff2d4d&icon_color=ff2d4d&text_color=c9c2cc" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=08070b&title_color=ff2d4d&text_color=c9c2cc" alt="Top languages">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nyxikittydev&show_icons=true&hide_border=true&bg_color=08070b&title_color=ff2d4d&icon_color=ff2d4d&text_color=c9c2cc" alt="GitHub stats">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyxikittydev&layout=compact&hide_border=true&bg_color=08070b&title_color=ff2d4d&text_color=c9c2cc" alt="Top languages">
 
 </div>
 
