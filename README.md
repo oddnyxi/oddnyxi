@@ -48,23 +48,23 @@ That's the whole list. I'd rather know ten things well than list fifty.
 
 ## Things I've built
 
-- **[Odium Launcher](https://github.com/nyxikittydev/odium-launcher)**: a black-and-red Android home screen. Native `HOME` activity, WebView UI, pixel cat, weather and focus widgets.
-- **[Odium Weather](https://github.com/nyxikittydev/OdiumWeather)**: an Electron weather app ported to Android. React UI in a WebView, Open-Meteo forecasts and a live RainViewer radar.
+- **[Odium Launcher](https://github.com/oddnyxi/odium-launcher)**: a black-and-red Android home screen. Native `HOME` activity, WebView UI, pixel cat, weather and focus widgets.
+- **[Odium Weather](https://github.com/oddnyxi/OdiumWeather)**: an Electron weather app ported to Android. React UI in a WebView, Open-Meteo forecasts and a live RainViewer radar.
 - **FloofVR**: a social VR game in Godot 4 with a Bun and TypeScript multiplayer server.
 
 ## Find me
 
 <!-- swap in your real links; delete any you don't use -->
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=flat-square&logo=soundcloud&logoColor=white)](https://soundcloud.com/YOUR_SOUNDCLOUD)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/oddnyxi)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=flat-square&logo=soundcloud&logoColor=white)](https://soundcloud.com/nyxikitty)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/383978230757195776)
 
 ## Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nyxikittydev&show_icons=true&hide_border=true&bg_color=08070b&title_color=ff2d4d&icon_color=ff2d4d&text_color=c9c2cc" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyxikittydev&layout=compact&hide_border=true&bg_color=08070b&title_color=ff2d4d&text_color=c9c2cc" alt="Top languages">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=oddnyxi&show_icons=true&hide_border=true&bg_color=08070b&title_color=ff2d4d&icon_color=ff2d4d&text_color=c9c2cc" alt="GitHub stats">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oddnyxi&layout=compact&hide_border=true&bg_color=08070b&title_color=ff2d4d&text_color=c9c2cc" alt="Top languages">
 
 </div>
 
